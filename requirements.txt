@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+Flask-Login
+python-dotenv
+PyMySQL
+google-auth-oauthlib
+google-auth-httplib2
+requests
